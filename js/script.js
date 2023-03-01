@@ -21,7 +21,7 @@ const getData1 = () => {
 
 
             pImie.innerText = `Imie: ${data.imie} `;
-            nazwisko.innerText = `Nazwisko: ${data.Nazwisko} `;
+            nazwisko.innerText = `Nazwisko: ${data.nazwisko} `;
             pZawod.innerText = `Zawód: ${data.zawod} `;
             pFirma.innerText = `Firma: ${data.firma} `;
 
